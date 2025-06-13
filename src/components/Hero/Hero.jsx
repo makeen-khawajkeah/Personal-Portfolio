@@ -2,7 +2,7 @@ import "../style.css"
 const Hero = ({id}) => {
 return (
     <div className="hero h-screen relative section border-b-2 border-black dark:border-white border-dashed" id={id}>
-        <img src="/public/image/lines.png" alt="" className="absolute top-[220px]  w-full md:block hidden h-[400px] "/>
+        <img src="/image/lines.png" alt="" className="absolute top-[220px]  w-full md:block hidden h-[400px] "/>
         <div className="container m-auto " >
             <div className="hero-content relative top-[140px] md:top-[240px] flex justify-around flex-col md:flex-row md:gap-0 gap-10 ">
                 <div className="left-side lg:mt-[50px] text-center lg:text-start md:text-left relative lg:w-[638px] md:w-[465px]">
