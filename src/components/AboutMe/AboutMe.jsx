@@ -4,7 +4,7 @@ const AboutMe = ({id}) => {
 return (
     <div className="about-me section pt-[60px]" id ={id}>
         <div className="container flex justify-center gap-x-[120px] mx-auto flex-col-reverse lg:flex-row">
-            <img src="/src/assets/image/About me.png" alt="" />
+            <img src="/image/about-me.png" alt="" />
             <div className="mt-[50px] flex-1 lg:max-w-[600px] mx-5 md:mx-0">
                 <h2 className="text-[40px] font-semibold text-center lg:text-left">About Me</h2>
                 <p className="mb-[40px] text-lg text-center lg:text-left text-liblack font-normal dark:text-white">
