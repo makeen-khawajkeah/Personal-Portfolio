@@ -813,8 +813,8 @@ video {
   height: 100vh;
 }
 
-.h-\[458px\] {
-  height: 458px;
+.h-\[40px\] {
+  height: 40px;
 }
 
 .h-full {
@@ -823,6 +823,10 @@ video {
 
 .h-screen {
   height: 100vh;
+}
+
+.h-\[400px\] {
+  height: 400px;
 }
 
 .min-h-\[170px\] {
@@ -1188,6 +1192,11 @@ video {
 
 .p-\[6px\] {
   padding: 6px;
+}
+
+.px-0 {
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .px-2 {
