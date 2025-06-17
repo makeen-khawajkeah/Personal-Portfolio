@@ -15,7 +15,7 @@ return (
                 <Skills skill={educationRight}/>
             </div>
         </div>
-        <img src="/public/image/education-squers-2.png" alt="" className="absolute -bottom-[160px] left-0 -z-10"/>
+        <img src="/image/education-squers-2.png" alt="" className="absolute -bottom-[160px] left-0 -z-10"/>
     </div>
 )
 }

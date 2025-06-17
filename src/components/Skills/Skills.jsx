@@ -2,7 +2,7 @@ const Skills = ({skill}) => {
 return (
     <div className="skills basis-1/2 mb-10 mx-3">
         <div className="box flex gap-x-[47px]    ">
-            <img src="/src/assets/image/Frame .png" alt="" className="hidden xl:block"/>
+            <img src="/image/frame.png" alt="" className="hidden xl:block"/>
             <ul className="flex flex-col gap-y-[46px]">
             {
                 skill.map((ed,index)=>{
