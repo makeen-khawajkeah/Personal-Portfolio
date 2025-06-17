@@ -12,9 +12,9 @@ return (
                 </div>
                 <div className="right-side relative md:top-0 top-16 ">
                     <div className="images relative">
-                        <img src="/public/image/my-image.png" alt="" className="w-[380px]  relative z-10 left-2/4 translate-x-[-50%] -top-[45px] sm:w-[380px] md:w-[380px] lg:w-[430px]"/>
-                        <img src="/public/image/circle.png" alt="" className="absolute top-0 left-2/4 translate-x-[-50%] w-[365px]  md:w-[350px] lg:w-[420px]"/>
-                        <img src="/public/image/squers.png" alt="" className="absolute top-0 left-2/4 translate-x-[-50%] w-[365px]  md:w-[350px] lg:w-[420px]" />
+                        <img src="/image/my-image.png" alt="" className="w-[380px]  relative z-10 left-2/4 translate-x-[-50%] -top-[45px] sm:w-[380px] md:w-[380px] lg:w-[430px]"/>
+                        <img src="/image/circle.png" alt="" className="absolute top-0 left-2/4 translate-x-[-50%] w-[365px]  md:w-[350px] lg:w-[420px]"/>
+                        <img src="/image/squers.png" alt="" className="absolute top-0 left-2/4 translate-x-[-50%] w-[365px]  md:w-[350px] lg:w-[420px]" />
                     </div>
                 </div>
             </div>

@@ -125,7 +125,7 @@ export const projects =[
     {
         id :"6",
         name : "DashStack",
-        languageUsed : "HTML , CSS , JavaScipt , React",
+        languageUsed : "HTML , CSS , JavaScipt , React", 
         image : "/image/project-6.PNG",  
         info : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus animi unde illum doloribus cumque dolores voluptas odit reiciendis  eum repudiandae in ut quis veniam tenetur!quae voluptatem corporis earum, numquam",
         lang :"HTML , CSS , JavaScript",
