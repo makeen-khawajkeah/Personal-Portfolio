@@ -1,7 +1,7 @@
 import "../style.css"
 const Hero = ({id}) => {
 return (
-    <div className="hero h-screen relative section border-b-2 border-black dark:border-white border-dashed" id={id}>
+    <div className="hero h-screen relative section sm:border-b-2 sm:border-black sm:dark:border-white border-dashed" id={id}>
         <img src="/image/hero-lines.png" alt="" className="absolute top-[220px]  w-full md:block hidden h-[400px] "/>
         <div className="container m-auto " >
             <div className="hero-content relative top-[140px] md:top-[240px] flex justify-around flex-col md:flex-row md:gap-0 gap-10 ">
